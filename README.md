@@ -15,9 +15,9 @@ This repository demonstrates how to use YOLOv8 for real-time object detection on
   <br><br>
 ## 📊 Example Results
 Image Detection\
-<img src="https://github.com/ultralytics/assets/raw/main/im.jpg" width="600"/>
-Video Detection
-
+![Alt Text](https://github.com/suhanipal05/Object-Detection--YOLO/blob/main/sample_image_result.png)
+<br><br>
+Video Detection\
 Annotated video frames are automatically generated and saved.
 <br><br>
 ## 🛠️ Tech Stack
